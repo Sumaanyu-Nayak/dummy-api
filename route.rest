@@ -1,1 +1,7 @@
 GET http://localhost:3000/fcMenu/itm/1
+
+###
+POST https://dummy-api-production-50f7.up.railway.app/fcMenu/new/id
+
+###
+GET https://dummy-api-production-50f7.up.railway.app/fcMenu/itms
